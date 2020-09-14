@@ -73,7 +73,6 @@ def departures_view(departure):
         max_nights=max_nights
     )
 
-
 # если необходимо будет запусть код в дебаг режиме, то нужно раскоментировать ниже код
 
 if __name__ == '__main__':
